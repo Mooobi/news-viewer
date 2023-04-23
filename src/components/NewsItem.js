@@ -12,7 +12,8 @@ const NewsItemBlock = styled.div`
   }
   .contents {
     h2 {
-      margin: 0 a {
+      margin: 0;
+      a {
         color: black;
       }
     }
